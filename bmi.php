@@ -25,7 +25,7 @@ body {
 	padding-right: 20px;
 }
 #container #content pro {
-	float: right;
+	float: left;
 }
 </style>
 </head>
